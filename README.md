@@ -1,1 +1,7 @@
-# Download-TS-Repos
+# GetTSRepos
+
+
+type in a terminal:
+```bash
+get-repos
+```
